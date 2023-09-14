@@ -1,0 +1,107 @@
+---
+object: card
+id: c408f43e-9092-440d-a15f-bef4ad58bcc6
+oracle_id: f0ff2c1c-702d-406b-a426-4282117afe8e
+multiverse_ids:
+- 6518
+tcgplayer_id: 207
+cardmarket_id: 9961
+name: Righteous Fury
+lang: en
+released_at: '1998-06-24'
+uri: https://api.scryfall.com/cards/c408f43e-9092-440d-a15f-bef4ad58bcc6
+scryfall_uri: https://scryfall.com/card/p02/21/righteous-fury?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331
+  normal: https://cards.scryfall.io/normal/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331
+  large: https://cards.scryfall.io/large/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331
+  png: https://cards.scryfall.io/png/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.png?1562941331
+  art_crop: https://cards.scryfall.io/art_crop/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331
+  border_crop: https://cards.scryfall.io/border_crop/front/c/4/c408f43e-9092-440d-a15f-bef4ad58bcc6.jpg?1562941331
+mana_cost: "{4}{W}{W}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: Destroy all tapped creatures. You gain 2 life for each creature destroyed
+  this way.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set: p02
+set_name: Portal Second Age
+set_type: starter
+set_uri: https://api.scryfall.com/sets/ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c408f43e-9092-440d-a15f-bef4ad58bcc6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af0ff2c1c-702d-406b-a426-4282117afe8e&unique=prints
+collector_number: '21'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Edward P. Beard, Jr.
+artist_ids:
+- b845b8ee-aeea-4822-bcf9-7230625ac95c
+illustration_id: 8ffb394b-3c4d-4e17-ba17-be52dbcabe34
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 16830
+penny_rank: 7758
+prices:
+  usd: '7.97'
+  usd_foil: 
+  usd_etched: 
+  eur: '4.87'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6518
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Righteous+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Righteous+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Righteous+Fury
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/207?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Righteous+Fury&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Righteous+Fury&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,108 @@
+---
+object: card
+id: 66e72970-df1f-4ded-a686-036008555a76
+oracle_id: 31426e08-bfd1-44f1-8473-5e982cb8e841
+multiverse_ids:
+- 6597
+tcgplayer_id: 186
+cardmarket_id: 9933
+name: Ogre Warrior
+lang: en
+released_at: '1998-06-24'
+uri: https://api.scryfall.com/cards/66e72970-df1f-4ded-a686-036008555a76
+scryfall_uri: https://scryfall.com/card/p02/113/ogre-warrior?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/6/66e72970-df1f-4ded-a686-036008555a76.jpg?1562919313
+  normal: https://cards.scryfall.io/normal/front/6/6/66e72970-df1f-4ded-a686-036008555a76.jpg?1562919313
+  large: https://cards.scryfall.io/large/front/6/6/66e72970-df1f-4ded-a686-036008555a76.jpg?1562919313
+  png: https://cards.scryfall.io/png/front/6/6/66e72970-df1f-4ded-a686-036008555a76.png?1562919313
+  art_crop: https://cards.scryfall.io/art_crop/front/6/6/66e72970-df1f-4ded-a686-036008555a76.jpg?1562919313
+  border_crop: https://cards.scryfall.io/border_crop/front/6/6/66e72970-df1f-4ded-a686-036008555a76.jpg?1562919313
+mana_cost: "{3}{R}"
+cmc: 4.0
+type_line: Creature — Ogre Warrior
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set: p02
+set_name: Portal Second Age
+set_type: starter
+set_uri: https://api.scryfall.com/sets/ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/66e72970-df1f-4ded-a686-036008555a76/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A31426e08-bfd1-44f1-8473-5e982cb8e841&unique=prints
+collector_number: '113'
+digital: false
+rarity: common
+flavor_text: Assault and battery included.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff Miracola
+artist_ids:
+- 9b465bde-3656-4495-ace4-af4ce29999ed
+illustration_id: c948e73b-7b3f-4c0f-96a2-781405f85416
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 25494
+prices:
+  usd: '0.12'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6597
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Ogre+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Ogre+Warrior&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Ogre+Warrior
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/186?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ogre+Warrior&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ogre+Warrior&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

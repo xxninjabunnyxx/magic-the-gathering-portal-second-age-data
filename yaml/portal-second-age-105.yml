@@ -1,0 +1,106 @@
+---
+object: card
+id: 738fecfd-1119-4dcb-acd6-ec9715d9c074
+oracle_id: 5944d5c7-65ab-425f-a453-ed5871ca3d73
+multiverse_ids:
+- 6594
+tcgplayer_id: 148
+cardmarket_id: 9925
+name: Goblin War Strike
+lang: en
+released_at: '1998-06-24'
+uri: https://api.scryfall.com/cards/738fecfd-1119-4dcb-acd6-ec9715d9c074
+scryfall_uri: https://scryfall.com/card/p02/105/goblin-war-strike?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.jpg?1562922334
+  normal: https://cards.scryfall.io/normal/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.jpg?1562922334
+  large: https://cards.scryfall.io/large/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.jpg?1562922334
+  png: https://cards.scryfall.io/png/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.png?1562922334
+  art_crop: https://cards.scryfall.io/art_crop/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.jpg?1562922334
+  border_crop: https://cards.scryfall.io/border_crop/front/7/3/738fecfd-1119-4dcb-acd6-ec9715d9c074.jpg?1562922334
+mana_cost: "{R}"
+cmc: 1.0
+type_line: Sorcery
+oracle_text: Goblin War Strike deals damage to target player or planeswalker equal
+  to the number of Goblins you control.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set: p02
+set_name: Portal Second Age
+set_type: starter
+set_uri: https://api.scryfall.com/sets/ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/738fecfd-1119-4dcb-acd6-ec9715d9c074/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5944d5c7-65ab-425f-a453-ed5871ca3d73&unique=prints
+collector_number: '105'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Michael Weaver
+artist_ids:
+- aa25b05c-f2fa-4218-83a1-0313650454a8
+illustration_id: 3767c37e-68ba-4f4f-9d5b-9c53cccaa217
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3754
+prices:
+  usd: '2.57'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.82'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6594
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+War+Strike&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+War+Strike&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+War+Strike
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/148?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+War+Strike&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+War+Strike&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

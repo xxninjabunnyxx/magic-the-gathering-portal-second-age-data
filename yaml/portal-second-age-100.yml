@@ -1,0 +1,109 @@
+---
+object: card
+id: f99dc21c-8600-49bf-b0a3-c981f7ec7ac3
+oracle_id: 145737a7-c597-4dec-b752-207c2d0501e3
+multiverse_ids:
+- 6596
+tcgplayer_id: 143
+cardmarket_id: 9920
+name: Goblin Matron
+lang: en
+released_at: '1998-06-24'
+uri: https://api.scryfall.com/cards/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3
+scryfall_uri: https://scryfall.com/card/p02/100/goblin-matron?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176
+  normal: https://cards.scryfall.io/normal/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176
+  large: https://cards.scryfall.io/large/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176
+  png: https://cards.scryfall.io/png/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.png?1562954176
+  art_crop: https://cards.scryfall.io/art_crop/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176
+  border_crop: https://cards.scryfall.io/border_crop/front/f/9/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3.jpg?1562954176
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Creature — Goblin
+oracle_text: When Goblin Matron enters the battlefield, you may search your library
+  for a Goblin card, reveal that card, put it into your hand, then shuffle.
+power: '1'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set: p02
+set_name: Portal Second Age
+set_type: starter
+set_uri: https://api.scryfall.com/sets/ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f99dc21c-8600-49bf-b0a3-c981f7ec7ac3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A145737a7-c597-4dec-b752-207c2d0501e3&unique=prints
+collector_number: '100'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Daniel Gelon
+artist_ids:
+- 63ac31a8-dd1a-4679-9f82-ece89429a084
+illustration_id: 2e7f3874-acb1-4bb6-b104-d22ec2abf0a8
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1358
+penny_rank: 781
+prices:
+  usd: '3.84'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.10'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6596
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Goblin+Matron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Goblin+Matron&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Goblin+Matron
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/143?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Goblin+Matron&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Goblin+Matron&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

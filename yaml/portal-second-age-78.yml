@@ -1,0 +1,106 @@
+---
+object: card
+id: 7553a2bf-2038-42f7-a311-bdc889dd773d
+oracle_id: ad44cf74-b717-48fb-9fa2-77512024d76a
+multiverse_ids:
+- 6562
+tcgplayer_id: 166
+cardmarket_id: 9838
+name: Mind Rot
+lang: en
+released_at: '1998-06-24'
+uri: https://api.scryfall.com/cards/7553a2bf-2038-42f7-a311-bdc889dd773d
+scryfall_uri: https://scryfall.com/card/p02/78/mind-rot?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.jpg?1562922695
+  normal: https://cards.scryfall.io/normal/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.jpg?1562922695
+  large: https://cards.scryfall.io/large/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.jpg?1562922695
+  png: https://cards.scryfall.io/png/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.png?1562922695
+  art_crop: https://cards.scryfall.io/art_crop/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.jpg?1562922695
+  border_crop: https://cards.scryfall.io/border_crop/front/7/5/7553a2bf-2038-42f7-a311-bdc889dd773d.jpg?1562922695
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Target player discards two cards.
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set: p02
+set_name: Portal Second Age
+set_type: starter
+set_uri: https://api.scryfall.com/sets/ac67f18a-4f0e-407e-bab1-a9fe4f659565
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap02&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p02?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7553a2bf-2038-42f7-a311-bdc889dd773d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad44cf74-b717-48fb-9fa2-77512024d76a&unique=prints
+collector_number: '78'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 155040dd-bc91-4a1f-ba18-f085171de99e
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 9909
+penny_rank: 6472
+prices:
+  usd: '0.09'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.06'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6562
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mind+Rot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mind+Rot&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mind+Rot
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/166?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mind+Rot&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mind+Rot&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
